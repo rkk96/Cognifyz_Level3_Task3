@@ -14,9 +14,7 @@ Welcome to the Data Visualization Project! In this project, we aim to explore va
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+=
 
 ## Introduction
 Data visualization is a powerful tool to communicate complex data insights clearly and effectively. This project explores a wide range of visualization techniques to identify the most effective ways to present data, making it easier to understand and interpret.
@@ -32,7 +30,6 @@ Data visualization is a powerful tool to communicate complex data insights clear
 - **Jupyter Notebooks**: For interactive data exploration and visualization.
 - **Matplotlib**: A comprehensive library for static, animated, and interactive plots.
 - **Seaborn**: A statistical data visualization library based on Matplotlib.
-- **Plotly**: For creating interactive, publication-quality graphs.
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical operations.
 
